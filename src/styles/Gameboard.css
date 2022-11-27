@@ -1,0 +1,11 @@
+.Gameboard {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 90%;
+}
+
+.background-image {
+  height: 100%;
+}

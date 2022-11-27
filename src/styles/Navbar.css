@@ -1,0 +1,26 @@
+.Navbar {
+  height: 80px;
+  width: 100vw;
+  border: 1px solid rgb(187, 187, 187);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.character-container {
+  height: 100%;
+  width: 300px;
+  margin-right: 200px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.character-container > img {
+  height: 90%;
+}
+
+.timer {
+  align-self: center;
+  font-size: 3rem;
+}
